@@ -41,7 +41,7 @@ Ukrainian (native), Russian (proficient), English (C1), Polish (B2+), German (A2
 
 ## Connect
 
-- [LinkedIn](www.linkedin.com/in/oles-melinyshyn)
+- [LinkedIn](https://www.linkedin.com/in/oles-melinyshyn)
 - [LeetCode](https://leetcode.com/u/cnxls/)
 - Email: oles.melinyshyn2007@gmail.com
 
