@@ -1,6 +1,6 @@
 # Hi, I'm Oles  👋
 
-Data Science Student at Cracow University of Economics, focused on machine learning and data engineering.
+DS student building LLM-powered tools and exploring where ML meets real-world data. Python, PyTorch, PostgreSQL.
 
 ##  What I'm Working On
 
@@ -38,10 +38,4 @@ Data Science Student at Cracow University of Economics, focused on machine learn
 ## Languages I Speak
 
 Ukrainian (native), Russian (proficient), English (C1), Polish (B2+), German (A2)
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/oles-melinyshyn)
-- [LeetCode](https://leetcode.com/u/cnxls/)
-- Email: oles.melinyshyn2007@gmail.com
 
