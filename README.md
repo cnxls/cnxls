@@ -37,5 +37,5 @@ DS student building LLM-powered tools and exploring where ML meets real-world da
 
 ## Languages I Speak
 
-Ukrainian (native), Russian (proficient), English (C1), Polish (B2+), German (A2)
+Ukrainian (native), English (C1), Russian (C1),  Polish (B2+), German (A2)
 
